@@ -1,5 +1,6 @@
 .gmail.com
 .google.com
+.google.com.hk
 .gstatic.com
 .googleapis.com
 .googleapps.com
@@ -7,6 +8,13 @@
 .googleusercontent.com
 .blogger.com
 .goo.gl
+.doubleclick.net
+.google
+.googlesource.com
+.gstatic.cn
+.recaptcha.net
+.appspot.com
+.blogspot.com
 
 # youtube
 .youtube.com
@@ -14,3 +22,4 @@
 .youtu.be
 .yt.be
 .googlevideo.com
+.goo.gle
