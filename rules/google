@@ -4,25 +4,34 @@
 .google.com.sg
 .google.com.jp
 .google.com.tw
-.gstatic.com
-.googleapis.com
 .googleapps.com
 .telephony.goog
-.googleusercontent.com
 .blogger.com
 .goo.gl
 .doubleclick.net
 .google
 .googlesource.com
-.gstatic.cn
+#.gstatic.cn
+#.gstatic.com
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
 .recaptcha.net
 .appspot.com
 .blogspot.com
-.googleapis.cn
 .googleadservices.com
 .google.co.th
-.xn--ngstr-lra8j.com
+#.googleapis.com
+#.googleapis.cn
+#.xn--ngstr-lra8j.com
+#services.googleapis.cn
+play-fe.googleapis.com
 .google.dev
+
+# google-play
+play-fe.googleapis.com
+.googleusercontent.com
 
 # youtube
 .youtube.com
